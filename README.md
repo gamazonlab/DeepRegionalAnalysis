@@ -2,7 +2,7 @@
 
 ## Reference
 
-Contextualizing genetic risk score for disease screening and rare variant discovery
+Integrative transcriptomic, evolutionary, and causal inference framework for region-level analysis
 
 Dan Zhou<sup>1, 2</sup> and Eric R. Gamazon<sup>1, 2, 3, 4, 5</sup>
 
