@@ -2,7 +2,7 @@
 
 ## Reference
 
-Integrative transcriptomic, evolutionary, and causal inference framework for region-level analysis
+Integrative transcriptomic, evolutionary, and causal inference framework for region-level analysis: Application to COVID-19
 
 Dan Zhou<sup>1, 2</sup> and Eric R. Gamazon<sup>1, 2, 3, 4, 5</sup>
 
