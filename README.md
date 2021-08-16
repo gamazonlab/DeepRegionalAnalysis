@@ -32,7 +32,7 @@ Rscript ./SEGMENT-SCAN.r \
 --n_controls=2205
 
 #options  
-eqtl_path  Data frame contains eqtl effect and the effect of gene on trait (estimated from MR). See the example file (df.txt) for the format.
+eqtl_path  Data frame contains eqtl effect and the effect of gene on trait. See the example file (df.txt) for the format. In the example file, "alpha" and "alpha_se" were the estimated effect size and its se of the effect of gene on trait (estimated from MR), respectively.
 genotype_path: Genotype in dosage. See the example file (genotype.txt) for the format.  
 res_path: Path for the results.  
 start_pos: start position for the segment.  
