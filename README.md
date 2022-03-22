@@ -19,6 +19,9 @@ Code being maintained by:
 Dan Zhou <zdangm@gmail.com>  
 Eric R. Gamazon <ericgamazon@gmail.com>
 
+## About  
+
+We present an integrative transcriptomic, evolutionary, and causal inference framework for a deep region-level analysis, which integrates several published approaches and a new summary-statistics-based methodology. See [study](https://www.nature.com/articles/s41525-022-00296-y) for more.  
 
 ## Example of running SEGMENT-SCAN to estimate expression-mediated h2 local.
 
