@@ -12,12 +12,12 @@ Dan Zhou<sup>1, 2</sup> and Eric R. Gamazon<sup>1, 2, 3, 4, 5</sup>
 <sup>4</sup>Clare Hall, University of Cambridge, Cambridge, United Kingdom  
 <sup>5</sup>MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom  
 
-Send correspondence to:
+Send correspondence to:  
 Eric R. Gamazon <ericgamazon@gmail.com>
 
-Code being maintained by:
-Dan Zhou <zdangm@gmail.com>
-
+Code being maintained by:  
+Dan Zhou <zdangm@gmail.com>  
+Eric R. Gamazon <ericgamazon@gmail.com>
 
 
 ## Example of running SEGMENT-SCAN to estimate expression-mediated h2 local.
